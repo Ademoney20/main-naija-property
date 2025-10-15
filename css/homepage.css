@@ -1,0 +1,9 @@
+:root{
+  --bg-color: #ffffff;
+  --text-color: #000000;
+  --prm-color: dodgerblue;
+  --font-family: sans-serif;
+}
+h1{
+  color: var(--prm-color);
+}
